@@ -6,7 +6,7 @@ Author: Ben Bruyneel <benbruyneel@gmail.com>
 Maintainer: Ben Bruyneel <benbruyneel@gmail.com>
 License: GPL (>=3)
 Encoding: UTF-8
-Imports: dataInfo, fs, magrittr, dplyr, purrr, tidyr, stringr
+Imports: dataInfo, MS.Analysis, fs, magrittr, dplyr, purrr, tidyr, stringr, XML, R6, base64enc
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Depends: R (>= 4.1.0)
