@@ -1,0 +1,15 @@
+Package: readAgilent
+Title: Reading Agilent exported Data
+Description: Provides functions to work with exported data from Agilent (Mass Spectrometry) software.
+Version: 0.6.0.0000
+Author: Ben Bruyneel <benbruyneel@gmail.com>
+Maintainer: Ben Bruyneel <benbruyneel@gmail.com>
+License: GPL (>=3)
+Encoding: UTF-8
+Imports: dataInfo, fs, magrittr, dplyr, purrr, tidyr, stringr
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 4.1.0)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

@@ -1,0 +1,23 @@
+"D:\MassHunter\Data\Ben\Data0001.d"," +ESI TIC Scan Frag=125.0V Data0001.d "
+"No integration results available"
+"D:\MassHunter\Data\Ben\Data0001.d"," +ESI BPC Scan Frag=125.0V Data0001.d "
+"No integration results available"
+"D:\MassHunter\Data\Ben\Data0001.d"," +ESI EIC(465.6025) Scan Frag=125.0V Data0001.d "
+"D:\MassHunter\Data\Ben\Data0001.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,B1 Start,B1 End,B2 Start,B2 End,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"1" ,8.587,8.665,8.764,8551.15,31098.61,16.36,22.92,14.06,0.177,0.066,46.85,62.00,8.074,8.592,8.767,9.731,46.85,46.85,1.05,8598.00,,,  ,461.7477,,,,,,,,,,,,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"2" ,9.730,9.800,10.073,37312.15,190147.07,100.00,100.00,85.94,0.343,0.086,46.85,46.85,8.767,9.731,10.051,10.209,46.85,46.85,1.59,37359.00,,,  ,464.2488,,,,,,,,,,,,
+
+"D:\MassHunter\Data\Ben\Data0001.d"," +ESI EIC(591.2807) Scan Frag=125.0V Data0001.d "
+"D:\MassHunter\Data\Ben\Data0001.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,B1 Start,B1 End,B2 Start,B2 End,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"1" ,10.292,10.378,10.536,8557.00,34374.87,100.00,100.00,73.98,0.244,0.070,0.00,0.00,9.530,10.305,10.470,10.569,0.00,0.00,1.17,8557.00,,,  ,589.7903,,,,,,,,,,,,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"2" ,11.981,12.087,12.229,2153.00,12089.29,35.17,25.16,26.02,0.248,0.101,66.00,0.00,11.952,12.011,12.219,12.414,0.00,0.00,0.93,2153.00,,,  ,582.3201,,,,,,,,,,,,
+
+"D:\MassHunter\Data\Ben\Data0001.d"," +ESI EIC(668.3614) Scan Frag=125.0V Data0001.d "
+"D:\MassHunter\Data\Ben\Data0001.d" ,"Peak" ,Start,RT,End,Height,Area,Area %,Height %,Area Sum %,Width,FWHM,Start Y,End Y,B1 Start,B1 End,B2 Start,B2 End,Start BL Y,End BL Y,Symmetry,Max Y,SNR,Height % (Norm),Baseline,Base Peak,k',Label,Cpd,Type,Plates,Plates/M,Resolution,Saturated,Tailing factor,Flags (Tgt),RI,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"1" ,7.074,7.114,7.200,3939.00,10701.11,1.88,4.59,1.32,0.125,0.034,0.00,0.00,5.718,7.074,7.190,7.533,0.00,0.00,2.00,3939.00,,,  ,569.7497,,,,,,,,,,,,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"2" ,7.510,7.579,7.632,5564.00,13896.57,2.44,6.48,1.72,0.122,0.038,0.00,0.00,7.190,7.533,7.632,8.051,0.00,0.00,0.80,5564.00,,,  ,281.1581,,,,,,,,,,,,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"3" ,8.975,9.038,9.252,40028.00,149458.29,26.21,46.63,18.49,0.277,0.057,79.00,188.00,8.540,8.985,9.282,9.417,0.00,0.00,1.96,40028.00,,,  ,801.3346,,,,,,,,,,,,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"4" ,11.242,11.312,11.490,14598.00,53807.23,9.44,17.01,6.65,0.247,0.053,0.00,248.00,11.104,11.246,11.727,11.807,0.00,0.00,1.26,14598.00,,,  ,480.6100,,,,,,,,,,,,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"5" ,11.787,11.846,12.097,1655.00,10519.13,1.84,1.93,1.30,0.310,0.161,76.00,0.00,11.727,11.807,12.080,12.490,0.00,0.00,3.86,1655.00,,,  ,670.8513,,,,,,,,,,,,
+"D:\MassHunter\Data\Ben\Data0001.d" ,"6" ,13.265,13.394,13.747,85835.00,570150.69,100.00,100.00,70.52,0.482,0.104,84.00,127.00,13.100,13.245,13.975,14.133,0.00,0.00,1.47,85835.00,,,  ,534.2681,,,,,,,,,,,,
+

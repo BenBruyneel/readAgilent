@@ -1,0 +1,4 @@
+filename, source, comment
+Data0001.CSV, Agilent, "Example Agilent chromatogram file export"
+Data0001_MS.csv, Agilent, "Example Agilent peaklist file export"
+Data0001_UV.csv, Agilent, "Example Agilent peaklist file export"

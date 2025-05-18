@@ -1,0 +1,8 @@
+importFrom(fs, "path_package")
+importFrom(magrittr, "%>%")
+export(chromatogramInfo.AgilentExport)
+export(readChromatogram.AgilentExport.memory)
+export(readChromatogram.AgilentExport)
+export(peakListInfo.AgilentExport)
+export(readPeaklist.AgilentExport.memory)
+export(readPeaklist.AgilentExport)
